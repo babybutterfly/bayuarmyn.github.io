@@ -1,0 +1,26 @@
+@media (max-width: 1000px) {
+
+    .role{
+      width: 50%;
+      margin-bottom: 50px;
+    }
+    .role-wrapper{
+        height: 1200px;
+    }
+    .int{
+        margin : 0 150px;
+    }
+   
+  }
+
+  @media (max-width: 670px){
+      .role{
+          width: 100%;
+      }
+      .role-wrapper{
+          height: 1600px;
+      }
+      .int{
+        margin-left: 0px;
+    
+  }
